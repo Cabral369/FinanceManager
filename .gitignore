@@ -1,3 +1,56 @@
+# Build e pastas de output
+**/[Bb]in/
+**/[Oo]bj/
+**/out/
+**/artifacts/
+
+# Dependências (NuGet, NPM, etc.)
+**/[Pp]ackages/
+**/node_modules/
+
+# Arquivos de usuário e configurações locais
+*.user
+*.suo
+*.userprefs
+*.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Arquivos temporários e de sistema
+*.log
+*.tmp
+*.cache
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE/Editor específicos
+.idea/
+.vs/
+.fuse/
+
+# Test coverage e resultados
+**/TestResults/
+**/coverage/
+*.coverage
+*.lcov
+
+# Dotnet tools e local settings
+.dotnet/
+.local/
+
+# Rider (se usado)
+*.sln.iml
+
+# Arquivos de configuração local (appsettings.Development.json, etc.)
+appsettings.*.json
+!appsettings.json
+secrets.json
+
+# Azure Functions (se aplicável)
+func-artifacts/
+
 CWindowsSystem32cmd.exe.txt
-READMEME.txt
-.fake
