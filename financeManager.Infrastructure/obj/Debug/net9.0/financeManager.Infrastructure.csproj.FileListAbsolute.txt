@@ -17,3 +17,4 @@ C:\programs\backend\financeManager.Infrastructure\obj\Debug\net9.0\refint\financ
 C:\programs\backend\financeManager.Infrastructure\obj\Debug\net9.0\financeManager.Infrastructure.pdb
 C:\programs\backend\financeManager.Infrastructure\obj\Debug\net9.0\financeManager.Infrastructure.genruntimeconfig.cache
 C:\programs\backend\financeManager.Infrastructure\obj\Debug\net9.0\ref\financeManager.Infrastructure.dll
+C:\programs\backend\financeManager.Infrastructure\obj\Debug\net9.0\financeManager.Infrastructure.sourcelink.json

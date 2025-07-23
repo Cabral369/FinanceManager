@@ -13,3 +13,4 @@ C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.A
 C:\programs\backend\financeManager.Application\obj\Debug\net9.0\refint\financeManager.Application.dll
 C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.pdb
 C:\programs\backend\financeManager.Application\obj\Debug\net9.0\ref\financeManager.Application.dll
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.sourcelink.json

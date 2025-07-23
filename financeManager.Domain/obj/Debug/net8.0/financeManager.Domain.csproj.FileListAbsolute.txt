@@ -9,3 +9,4 @@ C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain
 C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\refint\financeManager.Domain.dll
 C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.pdb
 C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\ref\financeManager.Domain.dll
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.sourcelink.json

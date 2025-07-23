@@ -60,3 +60,4 @@ C:\programs\backend\financeManager.API\obj\Debug\net9.0\refint\financeManager.AP
 C:\programs\backend\financeManager.API\obj\Debug\net9.0\financeManager.API.pdb
 C:\programs\backend\financeManager.API\obj\Debug\net9.0\financeManager.API.genruntimeconfig.cache
 C:\programs\backend\financeManager.API\obj\Debug\net9.0\ref\financeManager.API.dll
+C:\programs\backend\financeManager.API\obj\Debug\net9.0\financeManager.API.sourcelink.json
