@@ -1,0 +1,11 @@
+C:\programs\backend\financeManager.Domain\bin\Debug\net8.0\financeManager.Domain.deps.json
+C:\programs\backend\financeManager.Domain\bin\Debug\net8.0\financeManager.Domain.dll
+C:\programs\backend\financeManager.Domain\bin\Debug\net8.0\financeManager.Domain.pdb
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.AssemblyInfoInputs.cache
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.AssemblyInfo.cs
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.csproj.CoreCompileInputs.cache
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.dll
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\refint\financeManager.Domain.dll
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\financeManager.Domain.pdb
+C:\programs\backend\financeManager.Domain\obj\Debug\net8.0\ref\financeManager.Domain.dll

@@ -1,0 +1,15 @@
+C:\programs\backend\financeManager.Application\bin\Debug\net9.0\financeManager.Application.deps.json
+C:\programs\backend\financeManager.Application\bin\Debug\net9.0\financeManager.Application.dll
+C:\programs\backend\financeManager.Application\bin\Debug\net9.0\financeManager.Application.pdb
+C:\programs\backend\financeManager.Application\bin\Debug\net9.0\financeManager.Domain.dll
+C:\programs\backend\financeManager.Application\bin\Debug\net9.0\financeManager.Domain.pdb
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.csproj.AssemblyReference.cache
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.AssemblyInfoInputs.cache
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.AssemblyInfo.cs
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.csproj.CoreCompileInputs.cache
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeM.3BABF855.Up2Date
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.dll
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\refint\financeManager.Application.dll
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\financeManager.Application.pdb
+C:\programs\backend\financeManager.Application\obj\Debug\net9.0\ref\financeManager.Application.dll
